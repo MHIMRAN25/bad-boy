@@ -13,7 +13,7 @@ module.exports.config = {
 };
 const nam = [{
     timer: '12:31:00 AM',
-    message: ['@Ru\nYi']
+    message: ['HAPPY\nBIRTHDAY']
 },
              {
     timer: '1:00:00 AM',
