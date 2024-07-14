@@ -1,5 +1,5 @@
 module.exports.config = {
-	name: "@Ri Yi",
+	name: "Wish",
 	version: "1.0.2",
 	permission: 2,
 	credits: "nayan",
@@ -23,15 +23,13 @@ setTimeout(() => {a({body: "❀❀𝙃𝙖𝙥𝙥𝙮 𝙗𝙞𝙧𝙩𝙝𝙙�
  .." + " " + name, mentions: arraytag})}, 5000);
 setTimeout(() => {a({body: "
 ◎◉◈সুন্দর এই ভূবনে◈◉◎ " + " " + name, mentions: arraytag})}, 7000);
-setTimeout(() => {a({body: "◎◉◈সুন্দর এই ভূবনে◈◉◎
- ❝সুন্দরতম জীবন হোক আপনার❠ " + " " + name, mentions: arraytag})}, 9000);
-setTimeout(() => {a({body: "
- ☬⟪পূরন হোক প্রতিটি স্বপ্ন⟫☬" + " " + name, mentions: arraytag})}, 12000);
-setTimeout(() => {a({body: "💫 বেঁচে থাকেন হাজার বছর💫 " + " " + name, mentions: arraytag})}, 15000);
-setTimeout(() => {a({body: "🎂🎂Reshmi🎂🎂" + " " + name, mentions: arraytag})}, 17000);
-setTimeout(() => {a({body: "💫✨ 𝙈ᵃⁿʸ 𝙈ᵃⁿʸ 💫✨
-𝙃ᵃᵖᵖʸ 𝙍ᵉᵗᵘʳⁿ'ˢ 𝙊ᶠ 𝙏ʰᵉ 𝘿ᵃʸ🥳 " + " " + name, mentions: arraytag})}, 20000);
-setTimeout(() => {a({body: "" + " " + name, mentions: arraytag})},23000);
+setTimeout(() => {a({body: "🎈🎈সুন্দর এই ভূবনে🎈🎈
+ " + " " + name, mentions: arraytag})}, 9000);
+setTimeout(() => {a({body: "🎈🎈সুন্দরতম জীবন হোক আপনার🎈🎈" + " " + name, mentions: arraytag})}, 12000);
+setTimeout(() => {a({body: "☬⟪পূরন হোক প্রতিটি স্বপ্ন⟫☬"  " + " " + name, mentions: arraytag})}, 15000);
+setTimeout(() => {a({body: "💫 বেঁচে থাকেন হাজার বছর💫" + " " + name, mentions: arraytag})}, 17000);
+setTimeout(() => {a({body: "🎂🎂Reshmi🎂🎂 " + " " + name, mentions: arraytag})}, 20000);
+setTimeout(() => {a({body: "Many many happy returns of the day" + " " + name, mentions: arraytag})},23000);
 setTimeout(() => {a({body: "" + " " + name, mentions: arraytag})}, 25000);
 setTimeout(() => {a({body: "" + " " + name, mentions: arraytag})}, 28500);
 setTimeout(() => {a({body: "" + " " + name, mentions: arraytag})},31000);
